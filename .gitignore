@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Databases & local vector stores
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# User export reports & temporary files
+*.pdf
+OceanMind_Summary_Report.*

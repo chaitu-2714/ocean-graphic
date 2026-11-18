@@ -1,0 +1,10 @@
+{
+    "app_name": "OceanMind AI",
+    "version": "1.0.0",
+    "theme": "Ocean Dark",
+    "db_path": "oceanmind.db",
+    "chroma_dir": "chroma_db",
+    "ollama_url": "http://localhost:11434",
+    "ollama_model": "llama3",
+    "embedding_model": "all-MiniLM-L6-v2"
+}
